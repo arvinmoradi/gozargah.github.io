@@ -7,5 +7,6 @@
 <code>Username : نام کاربری ورود به سرور</code> <br>
 <code>Password : رمزعبور ورود به سرور</code> <br>
 <h2>SQLite</h2>
-<a href="https://youtu.be/Cf4NUhWBAg0" target="blank">مشاهده آموزش در یوتیوب</a>
+<a href="https://youtu.be/Cf4NUhWBAg0" target="blank" style="text-decoration:none;">مشاهده آموزش در یوتیوب</a>
 <h2>MySQL</h2>
+<a href="https://youtu.be/fivM6z55VtA" target="blank" style="text-decoration:none;">مشاهده آموزش در یوتیوب</a>
