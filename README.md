@@ -19,9 +19,9 @@
 <h2>Database SQLite</h2>
 <p>در محیط سرور قبل از هر کاری وارد مسیر زیر می شویم (WinSCP) چون فایل‌ها را از این مسیر دانلود و به این مسیر آپلود می‌کنیم</p>
 <code>/var/lib/marzban</code> <br>
-<a href="https://youtu.be/Cf4NUhWBAg0" target="blank" style="text-decoration:none;">مشاهده آموزش در یوتیوب</a>
+<a href="https://youtu.be/Cf4NUhWBAg0" target="_blank" style="text-decoration:none;">مشاهده آموزش در یوتیوب</a>
 <h2>Database MySQL</h2>
 <p>در محیط سرور قبل از هر کاری وارد مسیر زیر می شویم (WinSCP) چون فایل‌ها را از این مسیر دانلود و به این مسیر آپلود می‌کنیم</p>
 <code>/var/lib/marzban</code>
 <p>اگر به هر دلیلی پنل را پاک کردید و می‌خواهید فایل‌ها را بازگردانی کنید اول باید دیتابیس را به MySQL تغییر دهید و بعد کارهای لازم را برای بازگردانی انجام دهید</p>
-<a href="https://youtu.be/fivM6z55VtA" target="blank" style="text-decoration:none;">مشاهده آموزش در یوتیوب</a> <br>
+<a href="https://youtu.be/fivM6z55VtA" target="_blank" style="text-decoration:none;">مشاهده آموزش در یوتیوب</a> <br>
